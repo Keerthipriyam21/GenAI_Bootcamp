@@ -4,3 +4,6 @@ nltk
 emoji
 scikit-learn
 gensim
+sentence-transformers
+langchain
+langchain-community
